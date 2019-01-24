@@ -1,0 +1,7 @@
+c:\users\машимовн\source\repos\BackUp\BackUp\bin\Debug\BackUp.exe.config
+c:\users\машимовн\source\repos\BackUp\BackUp\bin\Debug\BackUp.exe
+c:\users\машимовн\source\repos\BackUp\BackUp\bin\Debug\BackUp.pdb
+c:\users\машимовн\source\repos\BackUp\BackUp\obj\Debug\BackUp.csprojAssemblyReference.cache
+c:\users\машимовн\source\repos\BackUp\BackUp\obj\Debug\BackUp.csproj.CoreCompileInputs.cache
+c:\users\машимовн\source\repos\BackUp\BackUp\obj\Debug\BackUp.exe
+c:\users\машимовн\source\repos\BackUp\BackUp\obj\Debug\BackUp.pdb
